@@ -1,0 +1,7 @@
+4. An almost sorted array is given to us and the task is to sort that array completely. Then,
+which sorting algorithm would you prefer and why?[Salesforce]
+
+We will be using Insertion sort for almost sorted array
+because as it is almost sorted we will be having less number of comparisons and less number of swaps
+Timecomplexity of sorting : no.of swaps+no.of comparisons
+which is (depend on the array)+n-1=> n=>O(n)
